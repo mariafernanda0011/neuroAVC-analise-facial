@@ -1,0 +1,7 @@
+# Ignorar pastas de ambiente virtual
+.venv/
+venv/
+__pycache__/
+
+# Ignorar pastas de imagens brutas e arquivos de imagem avulsos
+data/
